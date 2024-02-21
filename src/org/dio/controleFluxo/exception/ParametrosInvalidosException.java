@@ -1,4 +1,4 @@
-package com.dio.controleFluxo.exception;
+package org.dio.controleFluxo.exception;
 
 public class ParametrosInvalidosException extends Exception {
 

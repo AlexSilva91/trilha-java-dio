@@ -1,8 +1,8 @@
-package com.dio.controleFluxo;
+package org.dio.controleFluxo;
 
 import java.util.Scanner;
 
-import com.dio.controleFluxo.exception.ParametrosInvalidosException;
+import org.dio.controleFluxo.exception.ParametrosInvalidosException;
 
 public class Contador {
 
